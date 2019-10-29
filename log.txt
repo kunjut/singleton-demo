@@ -21,3 +21,5 @@ yohoho2
 yohoho1
 yohoho2
 Singleton pattern
+Singleton pattern ruby-version
+Singleton pattern ruby-version
